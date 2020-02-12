@@ -8,7 +8,7 @@ License: BSD3
 
 ## Notes
 
-For best results, a patched tdlib at https://github.com/tdlib-php/tdlib should be used instead of the official https://github.com/tdlib/td .
+For best results, a patched tdlib at https://github.com/telegram-gate/tdlib should be used instead of the official https://github.com/tdlib/td .
 
 ## HTTP API Reference
 
