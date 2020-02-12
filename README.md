@@ -1,4 +1,4 @@
-# tdlib-php
+# telegram-gate
 
 ## Project Status
 
