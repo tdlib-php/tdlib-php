@@ -2,7 +2,7 @@
 
 ## Project Status
 
-Work in progress, not ready for use.
+Project abandoned. Was: Work in progress, not ready for use.
 
 License: BSD3
 
